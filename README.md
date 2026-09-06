@@ -3,6 +3,6 @@
 <img
   src="./profile.png"
   alt="Elvis Mathu — Nairobi Developer"
-  width="400%"
+  width="100%"
 />
 </div>
